@@ -1,3 +1,3 @@
 Hello world!
 
-I am Jiwon, an undergraduate student at the University of Rochester studying B.S. in Computer Science. You can't find me on social media. Instead, check out my [personal website](https://jwpedia.com/about/) for more information. 
+I am Jiwon, a Computer Science student at University of Rochester. You can't find me on social media. Check out my [personal website](https://jwpedia.com/about/) instead for more information. 
